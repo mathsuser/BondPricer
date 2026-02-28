@@ -1,0 +1,9 @@
+__pycache__/
+.github/
+.gitignore/
+.vscode/
+src/draft
+notebooks/03_rates_models.ipynb
+src/rates_models.py
+notebooks/drafts.ipynb
+documentation/GovernmentBonds.md
